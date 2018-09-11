@@ -1,4 +1,4 @@
-# operacoes_matematicas
+# Calculadora simples em Flutter
 
 A new Flutter project.
 
